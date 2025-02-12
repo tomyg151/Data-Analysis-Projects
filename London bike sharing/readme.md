@@ -92,6 +92,7 @@ London Bike Sharing Dashboard
 •	SQL Script File: <a href="https://github.com/tomyg151/Data-Analysis-Projects/blob/main/London%20bike%20sharing/SQLQuery1.sql">
 GitHub SQL File
 </a>
+
 •	Dashboard link: <a href="https://public.tableau.com/app/profile/tom3837/viz/LondonBikeSharing_17393803776540/LondonBikesSharing?publish=yes">
 London Bike Sharing Dashboard
 </a>
