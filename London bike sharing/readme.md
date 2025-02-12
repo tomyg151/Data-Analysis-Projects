@@ -89,9 +89,9 @@ London Bike Sharing Dashboard
 •	Tableau → Interactive dashboards and visualizations<br/>
 
 ## Additional Resources 
-•	SQL Script File: <a href="[https://github.com/yourusername/London-Bike-Sharing-Analysis/sql_scripts/london_bike_sharing.sql](https://github.com/tomyg151/Data-Analysis-Projects/blob/main/London%20bike%20sharing/SQLQuery1.sql)">
+•	SQL Script File: <a href="https://github.com/tomyg151/Data-Analysis-Projects/blob/main/London%20bike%20sharing/SQLQuery1.sql">
 GitHub SQL File
-</a><br/>
+</a>
 •	Dashboard link: <a href="https://public.tableau.com/app/profile/tom3837/viz/LondonBikeSharing_17393803776540/LondonBikesSharing?publish=yes">
 London Bike Sharing Dashboard
 </a>
