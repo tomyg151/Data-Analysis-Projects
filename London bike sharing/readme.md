@@ -78,10 +78,13 @@ London Bike Sharing Dashboard
 •	Hourly rental patterns under different weather conditions<br/>
 
 ### Results & Insights
-• Consistent Growth in Bike Usage: The moving average visualization highlights a steady increase in bike rentals overtime, suggesting a growing adoption of bike-sharing services.<br/>
-• Peak Usage Hours: Most bike rentals occur during morning and evening rush hours (7-9 AM and 5-7 PM), indicating strong use for commuting.<br/>
-• Weather Impact on Rentals: Rainy and stormy weather significantly reduces the number of bike rentals, while clear weather leads to higher ridership.<br/>
-• Seasonal Trends: Summer has the highest number of rentals, whereas winter shows the lowest usage, highlighting the influence of weather conditions on bike-sharing demand.<br/>
+• Consistent Growth in Bike Usage: The moving average visualization highlights a steady increase in bike rentals overtime, suggesting a growing adoption of bike-sharing services.
+
+• Peak Usage Hours: Most bike rentals occur during morning and evening rush hours (7-9 AM and 5-7 PM), indicating strong use for commuting.
+
+• Weather Impact on Rentals: Rainy and stormy weather significantly reduces the number of bike rentals, while clear weather leads to higher ridership.
+
+• Seasonal Trends: Summer has the highest number of rentals, whereas winter shows the lowest usage, highlighting the influence of weather conditions on bike-sharing demand.
 
 ## Tools & Technologies
 •	SQL Server → Data processing and analysis<br/>
