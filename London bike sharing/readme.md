@@ -58,7 +58,8 @@ The objective of this analysis is to understand how various factors influence bi
 ### EDA (Exploratory Data Analysis) and Feature Engineering
 <a href="https://github.com/tomyg151/Data-Analysis-Projects/blob/main/London%20bike%20sharing/SQLQuery1.sql">
 https://github.com/tomyg151/Data-Analysis-Projects/blob/main/London%20bike%20sharing/SQLQuery1.sql
-</a><br/><br/>
+</a><br/>
+
 ### Creating New data set for the Dashboard
 <a href="https://github.com/tomyg151/Data-Analysis-Projects/blob/main/London%20bike%20sharing/London_Bike_Sharing_finale.xlsx"> 
 https://github.com/tomyg151/Data-Analysis-Projects/blob/main/London%20bike%20sharing/London_Bike_Sharing_finale.xlsx
