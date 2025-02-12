@@ -72,10 +72,10 @@ London Bike Sharing Dashboard
 </a>
 
 ### Key Visualizations
-•	Moving average trends<br/>
-•	Total rides count<br/>
-•	Correlation heatmap of temperature and wind speed<br/>
-•	Hourly rental patterns under different weather conditions<br/>
+-	Moving average trends<br/>
+-	Total rides count<br/>
+-	Correlation heatmap of temperature and wind speed<br/>
+-	Hourly rental patterns under different weather conditions<br/>
 
 ### Results & Insights
 - **Consistent Growth in Bike Usage:** The moving average visualization highlights a steady increase in bike rentals overtime, suggesting a growing adoption of bike-sharing services.
