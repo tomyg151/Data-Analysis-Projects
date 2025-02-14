@@ -1,4 +1,4 @@
-# London Bike Sharing Data Analysis
+# London Bike Sharing Analysis
 ## Project Overview
 This project analyzes London bike-sharing data using SQL Server for data processing and analysis, and Tableau for visualization. The goal is to gain insights into bike usage patterns and the impact of various factors such as weather, temperature, and time on bike rentals.
 
