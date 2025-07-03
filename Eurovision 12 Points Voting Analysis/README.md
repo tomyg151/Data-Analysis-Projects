@@ -11,10 +11,6 @@ This project analyzes the voting patterns in the Eurovision Song Contest, focusi
 
 Do the 12-point voting patterns in the Eurovision Song Contest indicate a persistent bias among countries, or do they demonstrate diversity and evolving trends over time?
 
-** Data Collection
-
-We scraped data from Wikipedia, extracting tables showing how many points each country gave to others (based on jury votes). Our main focus was on which country each country awarded its 12 points to.
-
 ### Data period
 **Years analyzed:** 2010–2025 (excluding 2020 since there was no contest due to COVID-19).
 
@@ -69,7 +65,7 @@ Eurovision Song Contest 2025
 </a>
 <br>
 
-## 📋 Data Categories (Metadata)
+### 📋 Data Categories (Metadata)
 - **year** — Year of the Eurovision contest
 - **giver_country** — Country giving the 12 points
 - **receiver_country** — Country receiving the 12 points
@@ -97,6 +93,10 @@ Eurovision Song Contest 2025
 ➡️ **Visualize** — Plot diversity per country and top loyalty pairs.
 
 ➡️ **Interpret** — Identify biases and summarize key patterns and statistical summaries.
+
+## Data Collection
+
+We scraped data from Wikipedia, extracting tables showing how many points each country gave to others (based on jury votes). Our main focus was on which country each country awarded its 12 points to.
 
 ### Data Processing
 
