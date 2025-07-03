@@ -1,4 +1,4 @@
-# Eurovision "Douze Points" (12-Point) Voting Patterns Analysis
+# Eurovision "Douze Points" (12-Point) Voting Analysis
 ## About
 <p>
 Eurovision voting has long been suspected of being influenced by political or cultural biases. This project explores whether there are "common giver" countries that consistently award 12 points to the same countries over the years.
